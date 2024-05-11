@@ -13,3 +13,7 @@ https://www.kaggle.com/datasets/urbikn/sroie-datasetv2
 ```bash
 poetry run jupyter notebook
 ```
+
+## Referências
+
+https://ai.google.dev/gemini-api/docs/get-started/python?hl=pt-br#generate_text_from_image_and_text_inputs
